@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Magic",
+  "base_artist": "kobore",
+  "createdAt": "2026-02-26T10:26:24.781800Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Kind Of Magic - Remastered 2011",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/01_A_Kind_Of_Magic_-_Remastered_2011_Queen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We Must Believe In Magic",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/02_We_Must_Believe_In_Magic_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Light & Magic",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/03_Light_&_Magic_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Light & Magic - Alternate Version",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/04_Light_&_Magic_-_Alternate_Version_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Light & Magic (Live In Sofia)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/05_Light_&_Magic_(Live_In_Sofia)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blacks Magic",
+      "artist": "Salt-N-Pepa",
+      "has_synced": false,
+      "path": "select/06_Blacks_Magic_Salt-N-Pepa.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Magic Stick",
+      "artist": "Lil' Kim feat. 50 Cent",
+      "has_synced": false,
+      "path": "select/07_Magic_Stick_Lil'_Kim_feat._50_Cent.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Magic Dance (Danny S Magic Party Remix)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/08_Magic_Dance_(Danny_S_Magic_Party_Remix)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Magic Dance (Danny's Magic Party Remix)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/09_Magic_Dance_(Danny's_Magic_Party_Remix)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Evil Black Magic",
+      "artist": "Zumpano",
+      "has_synced": false,
+      "path": "select/10_Evil_Black_Magic_Zumpano.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Magic",
+      "artist": "Yung Gravy",
+      "has_synced": true,
+      "path": "select/11_Magic_Yung_Gravy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Magic Beat",
+      "artist": "YACHT",
+      "has_synced": false,
+      "path": "select/12_The_Magic_Beat_YACHT.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Your Magic Is Real",
+      "artist": "YACHT",
+      "has_synced": false,
+      "path": "select/13_Your_Magic_Is_Real_YACHT.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "As If By Magic",
+      "artist": "La Roux",
+      "has_synced": true,
+      "path": "select/14_As_If_By_Magic_La_Roux.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Magic Stick (Feat. 50 Cent)",
+      "artist": "Lil' Kim",
+      "has_synced": true,
+      "path": "select/15_Magic_Stick_(Feat._50_Cent)_Lil'_Kim.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "A Kind Of Magic",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/16_A_Kind_Of_Magic_Queen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Magic",
+      "artist": "kobore",
+      "has_synced": false,
+      "path": "select/pl_01_Magic_kobore.txt"
+    }
+  ]
+}
